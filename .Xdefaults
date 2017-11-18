@@ -1,0 +1,45 @@
+URxvt.font: xft:RobotoMono Nerd Font Mono:style=Roman:size=9
+URxvt*foreground: {foreground}
+URxvt*depth: 32
+URxvt*background: {background.alpha}
+URxvt*borderColor: {background.alpha}
+URxvt*cursorColor: {cursor}
+URxvt.scrollBar:false
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.iso14755: False
+URxvt.perl-ext-common: default,clipboard
+#urxvt*transparent: true
+#urxvt*shading: 10
+*.color0: {color0}
+*color0:  {color0}
+*.color1: {color1}
+*color1:  {color1}
+*.color2: {color2}
+*color2:  {color2}
+*.color3: {color3}
+*color3:  {color3}
+*.color4: {color4}
+*color4:  {color4}
+*.color5: {color5}
+*color5:  {color5}
+*.color6: {color6}
+*color6:  {color6}
+*.color7: {color7}
+*color7:  {color7}
+*.color8: {color8}
+*color8:  {color8}
+*.color9: {color9}
+*color9:  {color9}
+*.color10: {color10}
+*color10:  {color10}
+*.color11: {color11}
+*color11:  {color11}
+*.color12: {color12}
+*color12:  {color12}
+*.color13: {color13}
+*color13:  {color13}
+*.color14: {color14}
+*color14:  {color14}
+*.color15: {color15}
+*color15: {color15}
+
